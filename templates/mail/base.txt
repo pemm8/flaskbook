@@ -1,0 +1,5 @@
+{% block body %}{% endblock %}
+
+---
+The Flaskbook team
+{{ config.HOSTNAME }}

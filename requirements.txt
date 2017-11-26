@@ -17,3 +17,4 @@ python-dateutil==2.6.1
 six==1.11.0
 Werkzeug==0.12.2
 WTForms==2.1
+Wand==0.4.4
